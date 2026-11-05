@@ -1,12 +1,12 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="Lunala" width="120">
+
 # Lunala
 
 **Your Rocket League, your way.**
 
-The cleanest launcher for Rocket League on Windows, for **Steam** and **Epic Games**.
-
-**[Download the latest version](https://github.com/zusmori/Lunala/releases/latest)**
+Lunala is a probably the cleanest launcher for Rocket League on Windows.
 
 </div>
 
@@ -20,16 +20,6 @@ The cleanest launcher for Rocket League on Windows, for **Steam** and **Epic Gam
 - **Discord Rich Presence**: shows what you're doing in Rocket League.
 - **Themes**: pick a color, the launcher, the background and the F2 menu follow it.
 
-## Lunala+
-
-Lunala+ adds features on top of Lunala. Right now: your exact camera settings also apply when you play
-**with Anti-Cheat**. Activate your license key in Lunala → Settings → Lunala+.
-
-## Install and updates
-
-Download **Lunala.exe** from the [latest release](https://github.com/zusmori/Lunala/releases/latest) and run it.
-Lunala updates itself. Every update is signed and checked before it is installed.
-
 ## Requirements
 
 - Windows 10 or 11 (64-bit)
@@ -41,5 +31,3 @@ Lunala updates itself. Every update is signed and checked before it is installed
 Lunala is an unofficial fan project and not affiliated with Psyonix or Epic Games. The F2 menu, items and map swaps only work without Anti-Cheat, which means offline modes only. Use at your own risk.
 
 Questions? Join the Lunala [Discord](https://discord.gg/S4FAnTfV8M).
-
-This repository only hosts Lunala's releases. The source code is private.
