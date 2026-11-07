@@ -13,7 +13,7 @@ Lunala is a probably the cleanest launcher for Rocket League on Windows.
 ## Features
 
 - **Saved map swaps**: Freeplay Swap (workshop maps in Freeplay arenas) and Scenery Swap (an arena's field with another map's scenery). Your picks are kept and come back every time you play without Anti-Cheat.
-- **F2 menu in game** (without Anti-Cheat): any item, painted versions included, presets, custom decals and balls, tweaks like game speed, gravity and unlimited flips.
+- **F2 menu in game** (without Anti-Cheat): any item, painted versions included, presets, custom decals and ball skins.
 - **Live camera settings**: exact values like height 87, changed in the launcher while you play without Anti-Cheat (also known as "Kirkode").
 - **Save Freeplay Sessions**: saving your current Freeplay session as a normal Rocket League Replay.
 - **Boost**: more performance while you play, and Lunala steps back so the game loads first.
