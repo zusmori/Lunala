@@ -26,16 +26,17 @@ A clean launcher and client for Rocket League on Windows.
 
 > The F2 menu, items, map swaps and camera settings only work **without Anti-Cheat** (offline modes only).
 
-## Lunala+
+## Lunala+ (Coming Soon)
 
-Lunala is **free and always will be**. Lunala+ is an optional **one-time purchase** that unlocks features while **Anti-Cheat is enabled**.
+> **Lunala+ is not released yet.** It is currently in development and cannot be purchased.
+
+Lunala is **free and always will be**. Lunala+ will be an optional **one-time purchase** that unlocks features while **Anti-Cheat is enabled**.
 
 - Lunala+ features are designed from the ground up to work with Anti-Cheat enabled, without bypassing or tampering with it.
 - Lunala+ features are built to stay within the Terms of Service of Epic Games and Psyonix.
 - Everything in the free version stays free.
 
-Lunala+ is in development. Follow the [Discord](https://discord.gg/S4FAnTfV8M) for news.
-
+Follow the [Discord](https://discord.gg/S4FAnTfV8M) for news and release updates.
 ## Installation
 
 1. Download the latest `Lunala.exe` from the [Releases](../../releases/latest) page.
