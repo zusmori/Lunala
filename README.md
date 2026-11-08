@@ -1,58 +1,33 @@
 <div align="center">
 
-<img src="assets/logo.png" width="128" alt="Lunala logo" />
+<img src="assets/logo.png" alt="Lunala" width="120">
 
 # Lunala
 
 **Your Rocket League, your way.**
 
-A clean launcher and client for Rocket League on Windows.
-
-[Download](../../releases/latest) · [Discord](https://discord.gg/S4FAnTfV8M)
+Lunala is a probably the cleanest launcher for Rocket League on Windows.
 
 </div>
 
----
-
 ## Features
 
-- **Map Swaps** – Play workshop maps in Freeplay arenas (Freeplay Swap) or give any arena the scenery of another map (Scenery Swap). Your picks are saved and applied every time you play without Anti-Cheat.
-- **F2 In-Game Menu** – Use any item, including painted versions, plus presets, custom decals and ball skins.
-- **Live Camera Settings** – Set exact values like height 87 right from the launcher while you play (also known as "Kirkode").
-- **Save Freeplay Sessions** – Save your current Freeplay session as a normal Rocket League Replay.
-- **Boost** – Better performance while you play. Lunala steps back so the game loads first.
-- **Discord Rich Presence** – Show what you're doing in Rocket League.
-- **Themes** – Pick a color and the launcher, background and F2 menu follow it.
-
-> The F2 menu, items, map swaps and camera settings only work **without Anti-Cheat** (offline modes only).
-
-## Lunala+ (Coming Soon)
-
-> **Lunala+ is not released yet.** It is currently in development and cannot be purchased.
-
-Lunala is **free and always will be**. Lunala+ will be an optional **one-time purchase** that unlocks features while **Anti-Cheat is enabled**.
-
-- Lunala+ features are designed from the ground up to work with Anti-Cheat enabled, without bypassing or tampering with it.
-- Lunala+ features are built to stay within the Terms of Service of Epic Games and Psyonix.
-- Everything in the free version stays free.
-
-Follow the [Discord](https://discord.gg/S4FAnTfV8M) for news and release updates.
-## Installation
-
-1. Download the latest `Lunala.exe` from the [Releases](../../releases/latest) page.
-2. Run it and select your platform (Steam or Epic Games).
-3. Launch Rocket League through Lunala.
+- **Saved map swaps**: Freeplay Swap (workshop maps in Freeplay arenas) and Scenery Swap (an arena's field with another map's scenery). Your picks are kept and come back every time you play without Anti-Cheat.
+- **F2 menu in game** (without Anti-Cheat): any item, painted versions included, presets, custom decals and balls, tweaks like game speed, gravity and unlimited flips.
+- **Live camera settings**: exact values like height 87, changed in the launcher while you play without Anti-Cheat (also known as "Kirkode").
+- **Save Freeplay Sessions**: saving your current Freeplay session as a normal Rocket League Replay.
+- **Boost**: more performance while you play, and Lunala steps back so the game loads first.
+- **Discord Rich Presence**: shows what you're doing in Rocket League.
+- **Themes**: pick a color, the launcher, the background and the F2 menu follow it.
 
 ## Requirements
 
 - Windows 10 or 11 (64-bit)
 - Rocket League on Steam or Epic Games
-- WebView2 Runtime (included in Windows 11 and current Windows 10)
+- WebView2 Runtime (comes with Windows 11 and current Windows 10)
 
-## Disclaimer
+## Good to know
 
-Lunala is an unofficial fan project and is not affiliated with Psyonix or Epic Games. Use at your own risk.
+Lunala is an unofficial fan project and not affiliated with Psyonix or Epic Games. The F2 menu, items and map swaps only work without Anti-Cheat, which means offline modes only. Use at your own risk.
 
-## Support
-
-Questions or feedback? Join the [Lunala Discord](https://discord.gg/S4FAnTfV8M).
+Questions? Join the Lunala [Discord](https://discord.gg/S4FAnTfV8M).
