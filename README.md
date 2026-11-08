@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Lunala_Logo.png" width="128" alt="Lunala logo" />
+<img src="assets/logo.png" width="128" alt="Lunala logo" />
 
 # Lunala
 
