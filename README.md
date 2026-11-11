@@ -6,7 +6,7 @@
 
 **Your Rocket League, your way.**
 
-Lunala is a probably the cleanest launcher for Rocket League on Windows.
+Lunala is probably the cleanest launcher for Rocket League on Windows.
 
 </div>
 
@@ -25,6 +25,17 @@ Lunala is a probably the cleanest launcher for Rocket League on Windows.
 - Windows 10 or 11 (64-bit)
 - Rocket League on Steam or Epic Games
 - WebView2 Runtime (comes with Windows 11 and current Windows 10)
+
+## Antivirus warnings
+
+Some antivirus programs (sometimes Windows Defender) may warn about Lunala or its F2 menu file `zlmod.dll`. Here is why, openly:
+
+- The F2 menu works by loading `zlmod.dll` into Rocket League. Cheats load files into games the same way, so scanners are careful with it. Lunala only does this when you play **without** Anti-Cheat (offline modes), never with Anti-Cheat.
+- Lunala is new and made by one person, so it doesn't have the "reputation" big programs have yet.
+
+What Lunala does **not** do: it doesn't hide files, doesn't turn off or bypass your antivirus, doesn't put files back after your antivirus removed them, and doesn't need admin rights. Updates are only installed when they are signed by Lunala's own key.
+
+To check your download: the SHA-256 checksum of `Lunala.exe` is on every release page. False detections are reported to the antivirus vendors - if you see one, tell us in Discord. If your antivirus removes the F2 menu file, Rocket League still runs normally, just without the F2 menu.
 
 ## Good to know
 
