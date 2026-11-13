@@ -12,13 +12,14 @@ Lunala is probably the cleanest launcher for Rocket League on Windows.
 
 ## Features
 
-- **Saved map swaps**: Freeplay Swap (workshop maps in Freeplay arenas) and Scenery Swap (an arena's field with another map's scenery). Your picks are kept and come back every time you play without Anti-Cheat.
-- **F2 menu in game** (without Anti-Cheat): any item, painted versions included, presets, custom decals and balls, tweaks like game speed, gravity and unlimited flips.
-- **Live camera settings**: exact values like height 87, changed in the launcher while you play without Anti-Cheat (also known as "Kirkode").
+- **Saved map swaps**: Freeplay Swap (workshop maps in any Soccar arena) and Scenery Swap (any arena with another arena's scenery, sky and colours). Your picks are kept and come back every time you play without Anti-Cheat.
+- **Lunala Menu in game** (without Anti-Cheat): any item, painted versions included, presets, custom decals and balls, tweaks like game speed, gravity and unlimited flips.
+- **Freeplay training**: Setups on any button, Freeplay Checkpoints (save a spot, jump back, freeze and rewind) and a ball speed display.
+- **Live camera settings**: exact values like 87 height, changed in the launcher while you play without Anti-Cheat (also known as "Kirkode").
 - **Save Freeplay Sessions**: saving your current Freeplay session as a normal Rocket League Replay.
 - **Boost**: more performance while you play, and Lunala steps back so the game loads first.
 - **Discord Rich Presence**: shows what you're doing in Rocket League.
-- **Themes**: pick a color, the launcher, the background and the F2 menu follow it.
+- **Themes**: pick a color, the launcher, the background and the Lunala Menu follow it.
 
 ## Requirements
 
@@ -36,6 +37,6 @@ Some antivirus programs currently flag Lunala. I'm in contact with VirusTotal to
 
 ## Good to know
 
-Lunala is an unofficial fan project and not affiliated with Psyonix or Epic Games. The F2 menu, items and map swaps only work without Anti-Cheat, which means offline modes only. Use at your own risk.
+Lunala is an unofficial fan project and not affiliated with Psyonix or Epic Games. The Lunala Menu, items and map swaps only work without Anti-Cheat, which means offline modes only. Use at your own risk.
 
 Questions? Join the Lunala [Discord](https://discord.gg/S4FAnTfV8M).
