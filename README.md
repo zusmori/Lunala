@@ -6,30 +6,43 @@
 
 **Your Rocket League, your way.**
 
-Lunala is probably the cleanest launcher for Rocket League on Windows.
+A clean launcher for Rocket League on Windows.
+
+[Download](https://github.com/zusmori/Lunala/releases/latest) · [Discord](https://discord.gg/S4FAnTfV8M) · [TikTok](https://www.tiktok.com/@lunalarl)
 
 </div>
 
 ## Features
 
-- **Saved map swaps**: Freeplay Swap (workshop maps in any Soccar arena) and Scenery Swap (any arena with another arena's scenery, sky and colours). Your picks are kept and come back every time you play without Anti-Cheat.
-- **Lunala Menu in game** (without Anti-Cheat): any item, painted versions included, presets, custom decals and balls, tweaks like game speed, gravity and unlimited flips.
-- **Freeplay training**: Setups on any button, Freeplay Checkpoints (save a spot, jump back, freeze and rewind) and a ball speed display.
-- **Live camera settings**: exact values like 87 height, changed in the launcher while you play without Anti-Cheat (also known as "Kirkode").
-- **Save Freeplay Sessions**: saving your current Freeplay session as a normal Rocket League Replay.
-- **Boost**: more performance while you play, and Lunala steps back so the game loads first.
+- **Freeplay Swap**: play workshop maps in any Soccar arena.
+- **Scenery Swap**: any arena with another arena's scenery, sky and colours.
+- **Lunala Menu in game**: items (painted versions too), presets, custom decals and balls, and tweaks like game speed and unlimited flips.
+- **Freeplay training**: Setups on any button, Freeplay Checkpoints (save, jump back, freeze and rewind) and a ball speed display with your goal speed in the chat.
+- **Live camera**: exact camera values, changed in the launcher while you play.
+- **Freeplay replays**: save your Freeplay session as a normal Rocket League replay.
+- **Boost**: more performance while you play.
 - **Discord Rich Presence**: shows what you're doing in Rocket League.
-- **Themes**: pick a color, the launcher, the background and the Lunala Menu follow it.
+- **Themes**: pick a colour, and Lunala follows it.
 
 ## Requirements
 
 - Windows 10 or 11 (64-bit)
 - Rocket League on Steam or Epic Games
-- WebView2 Runtime (comes with Windows 11 and current Windows 10)
+
+## Installation
+
+1. Download `Lunala.exe` from the [latest release](https://github.com/zusmori/Lunala/releases/latest).
+2. Start it. Lunala finds your game and updates itself.
+
+## Usage
+
+1. Pick Steam or Epic Games on the first start.
+2. Press **Play** and choose with or without Anti-Cheat.
+3. Without Anti-Cheat, press **F2** in game to open the Lunala Menu (you can change the key in Settings).
 
 ## Lunala+
 
-Lunala+ is coming soon. It adds features that also work with Anti-Cheat.
+Coming soon. Lunala+ adds features that also work with Anti-Cheat: custom camera, custom decals, custom colours, custom ball skins, reset indicator colour and custom crossbar sounds.
 
 ## Antivirus warnings
 
@@ -39,4 +52,4 @@ Some antivirus programs currently flag Lunala. I'm in contact with VirusTotal to
 
 Lunala is an unofficial fan project and not affiliated with Psyonix or Epic Games. The Lunala Menu, items and map swaps only work without Anti-Cheat, which means offline modes only. Use at your own risk.
 
-Questions? Join the Lunala [Discord](https://discord.gg/S4FAnTfV8M).
+Questions? Join the [Discord](https://discord.gg/S4FAnTfV8M).
