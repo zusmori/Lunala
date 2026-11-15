@@ -8,7 +8,7 @@
 
 A clean launcher for Rocket League on Windows.
 
-[Download](https://github.com/zusmori/Lunala/releases/latest) · [Discord](https://discord.gg/S4FAnTfV8M) · [TikTok](https://www.tiktok.com/@lunalarl)
+[Download](https://github.com/zusmori/Lunala/releases/latest) · [Discord](https://discord.gg/3zKCSQuNAk) · [TikTok](https://www.tiktok.com/@lunalarl)
 
 </div>
 
@@ -52,4 +52,4 @@ Some antivirus programs currently flag Lunala. I'm in contact with VirusTotal to
 
 Lunala is an unofficial fan project and not affiliated with Psyonix or Epic Games. The Lunala Menu, items and map swaps only work without Anti-Cheat, which means offline modes only. Use at your own risk.
 
-Questions? Join the [Discord](https://discord.gg/S4FAnTfV8M).
+Questions? Join the [Discord](https://discord.gg/3zKCSQuNAk).
