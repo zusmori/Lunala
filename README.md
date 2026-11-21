@@ -19,7 +19,7 @@ Lunala starts Rocket League for you and adds things the game doesn't have: map s
 ## Features
 
 - **Freeplay Swap**: play workshop maps in any Soccar arena.
-- **Scenery Swap**: any arena with another arena's scenery, sky and colours.
+- **Map Merge**: any arena with another arena's scenery, sky and colours (with Lunala+ also with Anti-Cheat).
 - **Lunala Menu in game**: items (painted versions too), presets, custom decals and balls, and tweaks like game speed and unlimited flips.
 - **Freeplay training**: Setups on any button, Freeplay Checkpoints (save, jump back, freeze and rewind), Limit Boost in Setups and a ball speed display.
 - **Live camera**: exact camera values, changed in the launcher while you play.
